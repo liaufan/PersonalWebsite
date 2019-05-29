@@ -12,7 +12,7 @@ body{
     display: table;
 }
 
-#home{
+#contact{
     float:left;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     color:#3FC2FC;
@@ -24,7 +24,7 @@ body{
     padding-right: 0;
 }
 
-#resume{
+#home{
     float:left;
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
     color:white;

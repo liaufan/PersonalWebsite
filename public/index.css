@@ -24,6 +24,17 @@ body{
     padding-right: 0;
 }
 
+#resume{
+    float:left;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color:white;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 25px 60px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
 #link{
     float:right;
     margin: 25px 30px;
@@ -35,7 +46,7 @@ a{
 
 a:visited,a:link,a:hover,a:active{
     text-decoration: none;
-    color:#3FC2FC;
+    
 }
 
 h1{
@@ -72,6 +83,7 @@ h3{
     margin-top: 5vw;
     color: #FFFFFF;
     letter-spacing: 0.3vw;
+    line-height: 3vw;
 }
 
 #skills{
