@@ -1,0 +1,93 @@
+body{
+    margin:0px;
+    padding:0px;
+    border:0px;
+    background-color: #252628;
+}
+
+#navibar{
+    background-color: #181818;
+    height:97px;
+    width:100%;
+    display: table;
+}
+
+#home{
+    float:left;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color:#3FC2FC;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 25px 60px;
+    border-top: 4px solid #3FC2FC;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#resume{
+    float:left;
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    color:#FFFFFF;
+    font-size: 35px;
+    font-weight: bold;
+    margin: 25px 60px;
+    padding-left: 0;
+    padding-right: 0;
+}
+
+#link{
+    float:right;
+    margin: 25px 30px;
+}
+
+a{
+    margin: 0px 5px;
+}
+
+a:visited,a:link,a:hover,a:active{
+    text-decoration: none;
+    color:#3FC2FC;
+}
+
+h1{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 10vw;
+    font-weight: 600;
+    margin-left: 60px;
+    margin-bottom: 0;
+}
+
+#liau{
+    color:#FFFFFF;
+}
+
+#roufan{
+    color: #3FC2FC;
+}
+
+h2{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 3vw;
+    font-weight: 200;
+    margin-left: 60px;
+    color: #FFFFFF;
+    letter-spacing: 1vw;
+    margin-top: 0;
+}
+
+h3{
+    font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+    font-size: 1.5vw;
+    font-weight: 600;
+    margin-left: 60px;
+    margin-top: 5vw;
+    color: #FFFFFF;
+    letter-spacing: 0.3vw;
+}
+
+#skills{
+    float:right;
+    width:35vw;
+    margin-top:8vw;
+    margin-right: 60px;
+}
