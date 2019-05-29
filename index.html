@@ -117,6 +117,7 @@
                                 <h5>SWIFT</h5>
                                 <h5>WEB DEVELOPMENT</h5>
                                 <h5>SDLC</h5>
+                                <h5>FIREBASE</h5>
                             
                     </td>
                 </tr>
@@ -165,7 +166,7 @@
             <div id="contactpage">
                 <h9>Questions? Or want to work togther?</h9><br>
                 <h10>Please leave a message below.</h10>
-                <form>
+                <form id="contactForm">
                      <table id="formtable" cellpadding="10px">
                          <tr height="30px"> 
 
@@ -175,7 +176,7 @@
                                 <h8>Name:</h8>
                             </td>
                             <td width="85%">
-                                <input type="text" name="name">
+                                <input type="text" name="name" id="name">
                             </td>
                         </tr>
                         <tr>
@@ -183,7 +184,7 @@
                                 <h8>Email:</h8>
                             </td>
                             <td>
-                                <input type="email" name="email">
+                                <input type="email" name="email" id="email">
                             </td>
                         </tr>
                         <tr>
@@ -191,7 +192,7 @@
                                 <h8>Messages:</h8>
                             </td>
                             <td>
-                                <textarea name="message"></textarea>
+                                <textarea name="message" id="message"></textarea>
                             </td>
                         </tr>
                         <tr>
@@ -206,5 +207,9 @@
                 <p>Developed by Liau Roufan. 2019.</p>
             </div>
         </a>
+
+        <script src="https://www.gstatic.com/firebasejs/6.1.0/firebase-app.js"></script>
+        <script src="https://www.gstatic.com/firebasejs/6.1.0/firebase-database.js"></script>
+        <script src="main.js"></script>
     </body>
 </html>
