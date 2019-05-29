@@ -101,7 +101,7 @@ h3{
 
 h4{
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: 2vw;
+    font-size: 3vw;
     font-weight: 100;
     color: #111111;
     letter-spacing: 0.6vw;
@@ -112,8 +112,8 @@ h4{
 
 h5{
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: 1.6vw;
-    font-weight: 600;
+    font-size: 2vw;
+    font-weight: 500;
     margin-left: 60px;
     color: #111111;
     letter-spacing: 0.2vw;
@@ -123,7 +123,7 @@ h5{
 
 h6{
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: 1.4vw;
+    font-size: 1.8vw;
     font-weight: 300;
     margin-left: 60px;
     color: #111111;
@@ -134,7 +134,7 @@ h6{
 
 h7{
     font-family: -apple-system, BlinkMacSystemFont, sans-serif;
-    font-size: 1.2vw;
+    font-size: 1.6vw;
     font-weight: 50;
     margin-left: 60px;
     color: #111111;
